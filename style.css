@@ -1,0 +1,43 @@
+body{
+  background-color:#C0CA33;
+}
+h1{color:blue;
+  font-size: 60px;
+  font-family: verdana;
+}
+p{color:green;
+font-size:30px;
+font-family:courier;
+}
+  #p01{color:blue;
+  font-size:50px;
+}
+a:link{color:green;
+ background-color:transparent;
+text-decoration: none;}
+a:active{color:yellow;
+ background-color:transparent;
+ text-decoration:underline;
+}
+a:visited{color:blue;
+ background-color:transparent;
+text-decoration: none;}
+a:hover{color:pink;
+ background-color:transparent;
+text-decoration:none;}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:5px;
+}
+th {text-align:left;
+}
+.cities{
+  background-color:black;
+  color:white;
+  margin:20px;
+  padding:20px;
+}
+.main{
+  text-align: center;
+}
